@@ -36,8 +36,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chinnyparamita/ch![DSC03360](https://user-images.githubusercontent.com/104486865/171026379-c8ca8880-77e3-4b50-808a-37c97787b34a.JPG)
-innyparamita.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chinnyparamita/chinnyparamita.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
