@@ -3,7 +3,6 @@
 
 
 
-[DSC03360](https://user-images.githubusercontent.com/104486865/171025984-027446d8-bb3c-46e7-a4d6-19390d66912e.JPG)
 ![image](https://user-images.githubusercontent.com/104486865/171032713-e3a1a2e6-66cf-4dee-adf4-5ad9629ace90.png)
 
 
